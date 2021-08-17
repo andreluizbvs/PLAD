@@ -4,7 +4,11 @@ This repo stores the Power Line Assets Dataset from the paper: PLAD: A Dataset f
 
 This paper has been accepted for presentation in SIBGRAPI 2021. Link to ArXiv: 
 
+
+## Sample images
 ![Images](https://i.imgur.com/xIe5jbr.png)
+
+## Sample assets
 ![Assets](https://i.imgur.com/7j6qe11.png)
 
 ## Description
