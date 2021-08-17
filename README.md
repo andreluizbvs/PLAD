@@ -2,7 +2,9 @@
 
 This repo stores the Power Line Assets Dataset from the paper: PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images.
 
-This paper has been accepted for presentation in SIBGRAPI 2021. Link to ArXiv: 
+[Dataset](https://drive.google.com/file/d/1KsNziErZ5ZRuWBpwUS5nlTnb8CcB2uQp/view?usp=sharing) (Google Drive)
+
+This paper has been accepted for presentation in SIBGRAPI 2021. [ArXiv]()
 
 
 ## Sample images
