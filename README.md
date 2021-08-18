@@ -14,6 +14,7 @@ This paper has been accepted for presentation at SIBGRAPI 2021. [arXiv](https://
 - Average instances per image: 18.1
 - Nº of object classes (different assets): 5
 - Other stats:
+
 ![Properties](https://i.imgur.com/ZwwGuj1.png)
 
 ## Sample images
