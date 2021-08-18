@@ -7,6 +7,15 @@ This repo stores the Power Line Assets Dataset from the paper: PLAD: A Dataset f
 This paper has been accepted for presentation at SIBGRAPI 2021. [arXiv](https://drive.google.com/file/d/1v4B1C2KpIjNywjhSI3p-5WIrB29S9q9M/view?usp=sharing)
 
 
+## Properties
+- Image size: 5472×3078 or 5472×3648
+- Total images: 133
+- Total instances: 2409
+- Average instances per image: 18.1
+- Nº of object classes (different assets): 5
+- Other stats:
+![Properties](https://i.imgur.com/ZwwGuj1.png)
+
 ## Sample images
 ![Images](https://i.imgur.com/xIe5jbr.png)
 
