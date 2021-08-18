@@ -17,6 +17,19 @@ This paper has been accepted for presentation at SIBGRAPI 2021. [arXiv](https://
 
 ![Properties](https://i.imgur.com/txWWPGN.png)
 
+## Baseline results
+
+- mAP: 89.2%
+
+| Assets             | Average Precision |
+|--------------------|-------------------|
+| Transmission tower | 0.900             |
+| Insulator          | 0.894             |
+| Spacer             | 0.856             |
+| Tower plate        | 0.971             |
+| Stockbridge damper | 0.838             |
+| **mean**           | **0.892**         |
+
 ## Sample images
 ![Images](https://i.imgur.com/xIe5jbr.png)
 
