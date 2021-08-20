@@ -16,7 +16,7 @@ This paper has been accepted for presentation at SIBGRAPI 2021. [arXiv](https://
 - Nº of object classes (different assets): 5
 - Other stats:
 
-![Properties](https://i.imgur.com/txWWPGN.png)
+![Properties](https://i.imgur.com/HzdL7bF.png)
 
 ## Baseline results
 
