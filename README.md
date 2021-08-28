@@ -44,9 +44,9 @@ Many power line companies are using UAVs to perform their inspection processes i
 ## Citing
 
 ```
-@misc{vieiraesilva2021plad,
-      title={PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images}, 
-      author={André Luiz Buarque Vieira-e-Silva and Heitor de Castro Felix and Thiago de Menezes Chaves and Francisco Paulo Magalhães Simões and Veronica Teichrieb and Michel Mozinho dos Santos and Hemir da Cunha Santiago and Virginia Adélia Cordeiro Sgotti and Henrique Baptista Duffles Teixeira Lott Neto},
+@misc{vieiraesilva2021stn,
+      title={STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images}, 
+      author={André Luiz Buarque Vieira-e-Silva and Heitor Felix and Thiago de Menezes Chaves and Francisco Paulo Magalhães Simões and Veronica Teichrieb and Michel Mozinho dos Santos and Hemir da Cunha Santiago and Virginia Adélia Cordeiro Sgotti and Henrique Baptista Duffles Teixeira Lott Neto},
       year={2021},
       eprint={2108.07944},
       archivePrefix={arXiv},
