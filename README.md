@@ -54,9 +54,5 @@ Many power line companies are using UAVs to perform their inspection processes i
 }
 ```
 
-## Authors
-
-- André Luiz Buarque Vieira-e-Silva (albvs@cin.ufpe.br)
-- Voxar Labs (voxarlabs@cin.ufpe.br) - https://www.cin.ufpe.br/~voxarlabs/
 
 
