@@ -2,7 +2,7 @@
 
 This repo stores the STN Power Line Assets Dataset from the paper: STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images.
 
-To download the dataset go to "Releases" or click [Dataset](https://drive.google.com/file/d/1KsNziErZ5ZRuWBpwUS5nlTnb8CcB2uQp/view?usp=sharing) (Google Drive)
+Download the dataset [here](https://github.com/andreluizbvs/PLAD/releases/download/1.0/plad.zip) (Releases) or [here](https://drive.google.com/file/d/1KsNziErZ5ZRuWBpwUS5nlTnb8CcB2uQp/view?usp=sharing) (Google Drive)
 
 This paper has been accepted for presentation at SIBGRAPI 2021 [arXiv](https://arxiv.org/abs/2108.07944).
 
