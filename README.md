@@ -4,7 +4,7 @@ This repo stores the STN Power Line Assets Dataset from the paper: STN PLAD: A D
 
 Download the dataset [here](https://github.com/andreluizbvs/PLAD/releases/download/1.0/plad.zip) (Releases) or [here](https://drive.google.com/file/d/1KsNziErZ5ZRuWBpwUS5nlTnb8CcB2uQp/view?usp=sharing) (Google Drive)
 
-This paper has been accepted for presentation at SIBGRAPI 2021 [arXiv](https://arxiv.org/abs/2108.07944).
+This paper has been accepted for presentation at SIBGRAPI 2021. [arXiv](https://arxiv.org/abs/2108.07944) | [IEEE](https://ieeexplore.ieee.org/document/9643100).
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/plad-a-dataset-for-multi-size-power-line/object-detection-on-plad)](https://paperswithcode.com/sota/object-detection-on-plad?p=plad-a-dataset-for-multi-size-power-line)
 
